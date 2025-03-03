@@ -4,6 +4,6 @@ Put that in your theme's folder and there you go!
 
 If PFP doesn't apply, either Discord has updated or your User ID is different.
 
-================================================================================
+===========================================================================
 
 import.css file is the entire database **EXCEPT** my User ID. Meaning I can customize MY profile picture to my liking while others have to go through the USRPFP official server.
